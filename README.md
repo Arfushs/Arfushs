@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 I'm game developer and generally using Godot Engine.<br>🦈 I'm Software Engineering student.<br>🐱‍👤 I like watching animes.<br><br>🎮 You can check my itch.io https://lelouchv0.itch.io<br><br> <br><br><br><br><br>
+👾 I'm game developer I use Godot & Unity game engines.<br>🦈 I'm Software Engineering student.<br>🐱‍👤 I like watching animes.<br><br>🎮 You can check my itch.io https://lelouchv0.itch.io<br><br> <br><br><br><br><br>
 
 
 # 💻 Tech Stack:
